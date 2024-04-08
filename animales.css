@@ -1,0 +1,15 @@
+.centro{
+    text-align: center;
+}
+
+.animal {
+    display: flex;
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center; 
+    margin-bottom: 20px; 
+}
+
+.texto {
+    margin-left: 10px;
+}
